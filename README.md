@@ -3,4 +3,4 @@
 
 Mer infomration om detta repostory kan hittas [här](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![This is an image](https://preview.redd.it/4tcvi9zma8q31.jpg?auto=webp&s=aa913a9d60eff0aa3d8d3269ee4b50ea4e26322c {width=10em height=10em})
+![This is an image](https://preview.redd.it/4tcvi9zma8q31.jpg?auto=webp&s=aa913a9d60eff0aa3d8d3269ee4b50ea4e26322c {width=100px height=100px})
