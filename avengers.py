@@ -45,7 +45,7 @@ while True:
     side_picking = True
     while side_picking:
         bet = input("Which side do you bet on?\n")
-        if bet == "heroes" or bet == "villains":
+        if bet == "heroes" or bet == "Heroes" or bet == "Villains" or bet == "villains":
             break
 
     print("\n")
@@ -67,12 +67,12 @@ while True:
 
     print("\n")
 
-    if bet == "heroes" and hero_strenght > villain_strenght:
+    if bet == "heroes" or bet == "Heroes" and hero_strenght > villain_strenght:
         print("The heroes won!")
         money += betted_money
         print("You now have:", money, "coins")
 
-    elif bet == "villains" and hero_strenght > villain_strenght:
+    elif bet == "villains" or bet == "Villains" and hero_strenght > villain_strenght:
         print("The villains won!")
         money += betted_money
         print("You now have:", money, "coins")
