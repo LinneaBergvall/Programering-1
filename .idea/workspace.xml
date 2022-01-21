@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f3a6c95-2d14-4619-9a24-4f6f858a30bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Marvel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Programering.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programering.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marvel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
